@@ -1,0 +1,10 @@
+* cl-epmd
+
+Common Lisp EPMD (Erlang Port Mapper Daemon) client and server.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/flambard/cl-epmd.git   |
+| commit  | 9cda992  |
+| systems | cl-epmd |
+|---------+-------------------------------------------|
+
